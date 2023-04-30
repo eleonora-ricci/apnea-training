@@ -1,5 +1,7 @@
 # Apnea Training Timer
 
+<img src="app/src/main/res/drawable/icon.png" alt="Icon" width="80" height="80">
+
 A minimal Android app written in Java to perform apnea training exercises with a sequence of timed breaths and holds from the CO2 or O2 static table.
 
 ## Usage

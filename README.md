@@ -2,7 +2,7 @@
 
 <img src="app/src/main/res/drawable/icon.png" alt="Icon" width="80" height="80">
 
-A minimal Android app written in Java to perform apnea training exercises with a sequence of timed breaths and holds from the CO2 or O2 static table.
+A minimal Android app written in Java to perform apnea training exercises with a sequence of timed breaths and holds from the CO2 or O2 static tables.
 
 ## Usage
 
@@ -21,4 +21,4 @@ Navigate to /app/release/ and copy the app-release.apk to your android device. T
 If you find a bug or would like to suggest a feature, let me know by opening an issue on this repository. Pull requests are welcome!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL-3.0 license - see the LICENSE file for details.

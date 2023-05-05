@@ -1,0 +1,1 @@
+A minimal app to perform apnea training exercises with a sequence of timed breaths and holds from the CO2 or O2 static tables.
